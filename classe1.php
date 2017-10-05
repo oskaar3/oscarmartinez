@@ -21,4 +21,7 @@ class provadeclasse
     public function prova4 ()
             {
             }
+    public function fantastma ()
+            {
+            }
 }
