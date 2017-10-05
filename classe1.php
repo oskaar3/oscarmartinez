@@ -12,5 +12,7 @@ class provadeclasse
     public function prova ()
             {
             }
-            
+    public function prova2 ()
+            {
+            }
 }
