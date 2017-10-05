@@ -18,4 +18,7 @@ class provadeclasse
     public function prova3 ()
             {
             }
+    public function prova4 ()
+            {
+            }
 }
