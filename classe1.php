@@ -23,6 +23,6 @@ class provadeclasse
             }
     public function fantastma ()
             {
-        echo "adios casper";
+
             }
 }
